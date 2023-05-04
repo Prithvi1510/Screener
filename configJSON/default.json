@@ -1,0 +1,6 @@
+{ 
+    "index" : false,
+    "indexused" : "notused",
+    "stockcodes" : [ "TITAN", "UPL", "ULTRACEMCO", "WIPRO"]
+    
+}
